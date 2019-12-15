@@ -1,0 +1,8 @@
+jupyter
+notebook
+seaborn
+-e inkcut
+-e grbl-stream
+-e pygcode
+-e python_GCode
+-e python_Grbl

@@ -1,0 +1,15 @@
+[submodule "python_Grbl"]
+	path = python_Grbl
+	url = https://github.com/jed-frey/python_Grbl.git
+[submodule "python_GCode"]
+	path = python_GCode
+	url = https://github.com/jed-frey/python_GCode.git
+[submodule "pygcode"]
+	path = pygcode
+	url = https://github.com/fragmuffin/pygcode
+[submodule "grbl-stream"]
+	path = grbl-stream
+	url = https://github.com/fragmuffin/grbl-stream
+[submodule "inkcut"]
+	path = inkcut
+	url = https://github.com/inkcut/inkcut
