@@ -1,5 +1,5 @@
 # Configuration
-PYTHON_VER?=python3.8
+PYTHON_VER?=python3.7
 PYTHON_VENV?=virtualenv_${PYTHON_VER}
 PYTHON_BIN?=$(shell which ${PYTHON_VER})
 
